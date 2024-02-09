@@ -117,6 +117,11 @@ header {
     flex-direction: column;
 }
 
+
+.random-info {
+    margin-top: 10px;
+}
+
 .random-info strong {
     font-size: 20px;
     margin: 0;
